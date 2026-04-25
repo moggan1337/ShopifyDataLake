@@ -13,15 +13,7 @@
 
 ## About
 
-ShopifyDataLake is an enterprise-grade ETL (Extract, Transform, Load) pipeline that syncs your Shopify data into a high-performance ClickHouse data warehouse. It enables deep analytics, custom dashboards, and data science workflows that aren't possible with Shopify's native analytics.
-
-**Key Benefits:**
-- ⚡ **Real-time Sync** — Webhook-based instant data updates
-- 📊 **ClickHouse Power** — 10-100x faster queries than traditional databases
-- 🏪 **Complete Data** — Products, orders, customers, and more
-- 📈 **Advanced Analytics** — Cohort analysis, LTV, RFM, funnel analysis
-- 🔄 **Incremental Loads** — Efficient delta syncs for large stores
-- 🎨 **Dashboards** — Pre-built Grafana and Superset dashboards
+ShopifyDataLake is an enterprise-grade ETL pipeline that syncs your Shopify data into a high-performance ClickHouse data warehouse, enabling deep analytics and custom dashboards that aren't possible with Shopify's native analytics. It provides real-time webhook-based sync, incremental loads, and pre-built Grafana/Superset dashboards for cohort analysis, LTV, and RFM segmentation. Built for data engineers and analysts who need advanced analytics capabilities beyond Shopify's native reporting.
 
 ## ✨ Features
 
